@@ -1,2 +1,3 @@
-# jiachen_li.github.io
-Jiachen Li's personal website
+# Personal webpage
+This is the source codes of my personal webpage.
+Please refer to https://jiachenucb.github.io.
